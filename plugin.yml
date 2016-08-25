@@ -1,0 +1,9 @@
+name: BungeeMemes
+version: 420.69
+author: FardinSqlScanner
+main: com.FardinSqlScanner.BungeeMemes.main.BungeeMemesMain
+
+commands:
+   broadcast:
+     aliases: [b]
+   msg:
